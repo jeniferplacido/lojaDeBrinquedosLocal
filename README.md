@@ -44,7 +44,7 @@ O projeto está organizado nas seguintes camadas:
 1. Clone o repositório:
 
    ```
-   git clone https://github.com/jeniferplacido/lojaBrinquedosLocal.git
+   git clone https://github.com/jeniferplacido/lojaDeBrinquedosLocal.git
    ```
 
 2. Instale as dependências:
